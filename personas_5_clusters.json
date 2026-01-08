@@ -1,0 +1,148 @@
+[
+  {
+    "name": "C-Suite/Executive in Unknown (Unknown)",
+    "cluster_id": 0,
+    "size": 118,
+    "seniority": "C-Suite/Executive",
+    "primary_geography": "Unknown",
+    "secondary_geographies": [
+      "REGI\ufffdN METROPOLITANA",
+      "TN"
+    ],
+    "geo_concentration": 95.76271186440678,
+    "primary_industry": "Unknown",
+    "secondary_industries": [
+      "Technology",
+      "Software e Internet"
+    ],
+    "industry_concentration": 97.45762711864407,
+    "common_titles": [
+      "Unknown",
+      "Consultant",
+      "Founder / Co-Founder / Partner"
+    ],
+    "experience_level": "Unknown",
+    "primary_lead_source": "Web",
+    "gender_distribution": {
+      "Unknown": 118
+    },
+    "conversion_rate": 23.728813559322035,
+    "total_conversions": 28
+  },
+  {
+    "name": "Management in Banking / Financial Services (IL)",
+    "cluster_id": 1,
+    "size": 302,
+    "seniority": "Management",
+    "primary_geography": "IL",
+    "secondary_geographies": [
+      "Unknown",
+      "CA"
+    ],
+    "geo_concentration": 37.74834437086093,
+    "primary_industry": "Banking / Financial Services",
+    "secondary_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "industry_concentration": 30.132450331125828,
+    "common_titles": [
+      "Other",
+      "Unknown",
+      "Functional Specialist"
+    ],
+    "experience_level": "Unknown",
+    "primary_lead_source": "Unknown",
+    "gender_distribution": {
+      "Unknown": 302
+    },
+    "conversion_rate": 100.0,
+    "total_conversions": 302
+  },
+  {
+    "name": "Management in Others (IL)",
+    "cluster_id": 2,
+    "size": 190,
+    "seniority": "Management",
+    "primary_geography": "IL",
+    "secondary_geographies": [
+      "CA",
+      "TX"
+    ],
+    "geo_concentration": 46.31578947368421,
+    "primary_industry": "Others",
+    "secondary_industries": [
+      "IT Services",
+      "Banking & Financial Services"
+    ],
+    "industry_concentration": 44.21052631578947,
+    "common_titles": [
+      "Unknown",
+      "Analyst",
+      "Project Manager"
+    ],
+    "experience_level": "Unknown",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Male": 122,
+      "Female": 65,
+      "Prefer not to say": 3
+    },
+    "conversion_rate": 27.89473684210526,
+    "total_conversions": 53
+  },
+  {
+    "name": "C-Suite/Executive in Unknown (Unknown)",
+    "cluster_id": 3,
+    "size": 568,
+    "seniority": "C-Suite/Executive",
+    "primary_geography": "Unknown",
+    "secondary_geographies": [],
+    "geo_concentration": 100.0,
+    "primary_industry": "Unknown",
+    "secondary_industries": [],
+    "industry_concentration": 100.0,
+    "common_titles": [
+      "Unknown",
+      "CEO",
+      "Instructor"
+    ],
+    "experience_level": "< 5 Years",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Unknown": 568
+    },
+    "conversion_rate": 0.0,
+    "total_conversions": 0
+  },
+  {
+    "name": "Senior Management in Unknown (Unknown)",
+    "cluster_id": 4,
+    "size": 192,
+    "seniority": "Senior Management",
+    "primary_geography": "Unknown",
+    "secondary_geographies": [
+      "TX"
+    ],
+    "geo_concentration": 100.0,
+    "primary_industry": "Unknown",
+    "secondary_industries": [
+      "Construction",
+      "Agricultura y Miner\ufffda"
+    ],
+    "industry_concentration": 100.0,
+    "common_titles": [
+      "Unknown",
+      "Aerospace",
+      "\u062d\u0635"
+    ],
+    "experience_level": "10-15 Years",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Unknown": 191,
+      "Prefer not to say": 1
+    },
+    "conversion_rate": 2.083333333333333,
+    "total_conversions": 4
+  }
+]

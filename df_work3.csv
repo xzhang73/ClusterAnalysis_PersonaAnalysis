@@ -1,0 +1,1371 @@
+Country,State,Industry,Job Title,Education Level,Age_range,Years of Experience,Gender,Lead Source,is_sale
+Brazil,,,,,,,,School,FALSE
+United States,North Carolina,Others,Analyst,,40-55,> 20 Years,Male,Web,TRUE
+United States,IL,Transport - Logistic,Driver delivery,,25-40,,Male,Web,TRUE
+United States,IL,Healthcare,Senior Scientist II,,25-40,< 5 Years,Female,Google,TRUE
+United States,CA,Civil construction,Gm,,40-55,5-10 Years,Male,Facebook,TRUE
+United States,Arizona,Others,Program / Portfolio Manager,,55+,> 20 Years,Male,Google,TRUE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Spain,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+Ghana,Greater Accra,Consulting,manager,,40-55,5-10 Years,Male,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Iran (Islamic Republic of),,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,School,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,,,Web,FALSE
+United States,,,,,,< 5 Years,,inbound,FALSE
+United States,IL,Education,,,55+,> 20 Years,Female,Facebook,FALSE
+United States,IL,Education,Science teacher,,55+,> 20 Years,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,South Carolina,Banking & Financial Services,,,40-55,15-20 Years,Female,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+,,,,,,,,Web,FALSE
+Mexico,Sonora,Electronics / Hardware,Quality Engineer,,25-40,,Male,School,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,NY,Others,HA,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Virginia,IT Services,,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+,,,,,,,,,TRUE
+Iran (Islamic Republic of),,,حص,,,10-15 Years,,Google,FALSE
+United States,TX,Banking & Financial Services,Sr Financial Crimes Investigator,,25-40,5-10 Years,Male,Google,FALSE
+United States,IL,Healthcare,Medical Research Specialist,,25-40,< 5 Years,Female,Web,TRUE
+United States,New Jersey,Industrial Goods,Technical Consultant,,55+,,Male,Facebook,TRUE
+United States,IL,Healthcare,Scientist,,25-40,5-10 Years,Male,Google,TRUE
+United States,IL,Healthcare,Sr Mgr,,40-55,,Male,School,TRUE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+India,Tamil Nadu,Healthcare,Research Scientist,,25-40,,Female,School,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,IL,Banking & Financial Services,,,25-40,5-10 Years,Male,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,CA,Education,Teacher,,40-55,10-15 Years,Male,Google,FALSE
+United States,Missouri,Others,engineer,,40-55,< 5 Years,Female,Facebook,FALSE
+United States,New Jersey,Banking & Financial Services,vp,,55+,> 20 Years,Female,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,NY,Healthcare,Senior Financial Analyst,,25-40,,Female,Web,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+,,,,,,10-15 Years,,Google,FALSE
+United States,TX,Media,,,25-40,10-15 Years,Male,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,inbound,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Ohio,Consulting,,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Healthcare,,,40-55,10-15 Years,Male,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,CEO,,,> 20 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,CEO,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,Virginia,Others,Research,,25-40,< 5 Years,Male,Facebook,FALSE
+India,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,Instructor,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Ohio,Banking & Financial Services,ETL developer,,40-55,,Male,Facebook,FALSE
+Mexico,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,,,Web,FALSE
+United States,Florida,Real Estate,It manager,,40-55,,Male,Facebook,FALSE
+United States,IL,Others,Boxing Trainer,,40-55,< 5 Years,Male,Facebook,FALSE
+United States,Virginia,Energy,"Sr. Dir., Charging and Energy Services",,40-55,,Male,Facebook,TRUE
+United States,Tennessee,IT Products,,,20-25,,Male,Facebook,TRUE
+United States,Connecticut,Banking & Financial Services,Portfolio Manager,,40-55,10-15 Years,Male,Web,TRUE
+United States,CA,Others,Data Science Intern,,20-25,,Male,School,TRUE
+United States,Maryland,Healthcare,Database Manager,,25-40,5-10 Years,Male,Facebook,TRUE
+United States,NY,Media,Reporter,,25-40,< 5 Years,Female,Web,TRUE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,Program Manager,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+American Samoa,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,Virginia,Healthcare,Intern,,20-25,< 5 Years,Female,Google,FALSE
+United States,CA,Insurance,Data Analyst,,25-40,< 5 Years,Male,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+China,,,,,,10-15 Years,,Google,FALSE
+United States,South Carolina,Electronics / Hardware,Requirements Manager,,40-55,15-20 Years,Male,template,FALSE
+United States,,,Vp/ sr director,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,inbound,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United Kingdom,,,,,,,,Web,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,CA,IT Services,,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+China,Hainan,Education,researcher,,25-40,,Female,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,IL,Banking & Financial Services,Director of Catastrophe Risk and Analytics,,25-40,,Male,template,TRUE
+United States,Ohio,Retail,Architect,,40-55,,Female,inbound,TRUE
+United States,Maryland,Consulting,,,40-55,5-10 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,IT Services,,,55+,> 20 Years,Male,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Spain,Comunidad de Madrid,Real Estate,,,25-40,,Male,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,CA,IT Services,,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,,,,,,,,School,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,Consultant,,,< 5 Years,,Web,FALSE
+United States,IL,Others,Label Maker,,20-25,< 5 Years,Female,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,IL,IT Services,Telecommunications Electrician,,40-55,,Male,School,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Georgia,IT Services,CIO,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Philippines,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,< 5 Years,,inbound,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Missouri,Advertising,,,55+,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,CA,IT Services,Manager,,40-55,15-20 Years,Male,Facebook,FALSE
+China,Guangdong,Consulting,counsellor,,20-25,< 5 Years,Female,Google,TRUE
+United States,Connecticut,Energy,Distribution Planning,,25-40,5-10 Years,Female,Google,TRUE
+United States,Florida,Transport - Logistic,Logistics Manager,,25-40,5-10 Years,Female,Facebook,TRUE
+United States,IL,Others,Mechanical Engineer,,25-40,< 5 Years,Male,Web,TRUE
+United States,Oregon,Energy,GIS Analyst,,40-55,5-10 Years,Male,Facebook,TRUE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,IL,Human Resources Service Provider,System admin,,40-55,< 5 Years,Female,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,,,Google,FALSE
+United States,Louisiana,Education,Owner,,40-55,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+Uganda,,,,,,< 5 Years,,Google,FALSE
+United States,IL,Transport - Logistic,sales and service reservations agent,,40-55,15-20 Years,Male,Web,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Ghana,Ashanti,Healthcare,Nurse,,20-25,5-10 Years,Male,Google,FALSE
+United States,Maryland,Education,Assistant Principal,,55+,,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+Nigeria,Enugu,IT Services,AI builder,,20-25,,Male,School,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,CEO,,,> 20 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,South Carolina,Healthcare,,,40-55,10-15 Years,Female,Google,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,inbound,FALSE
+United States,Virginia,IT Services,System administrator,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,Software engineer in test,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,TX,Others,-,,25-40,,Female,Web,FALSE
+United States,NY,Healthcare,Clerical Assistant,,40-55,,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Indiana,Energy/Utilities,,,25-40,> 20 Years,Prefer not to say,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,TX,Consumer Products/Retail,Vice President of Finance,,40-55,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,IL,Consulting,Administrative Analyst,,25-40,< 5 Years,Male,Web,TRUE
+United States,IL,Electronics / Hardware,Hardware engineer,,40-55,> 20 Years,Male,Facebook,TRUE
+United States,IL,Consulting,Senior Data Statistician,,20-25,> 20 Years,Female,School,TRUE
+United States,New Jersey,Banking & Financial Services,Independent Trader,,40-55,10-15 Years,Male,Google,TRUE
+United States,TX,Energy,Economist,,25-40,5-10 Years,Female,Google,TRUE
+United States,NY,Healthcare,Analytical Development Intern,,20-25,< 5 Years,Male,Google,TRUE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,North Dakota,Others,Wielder,,40-55,5-10 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,,,School,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+Iran (Islamic Republic of),,,,,,5-10 Years,,Google,FALSE
+United States,IL,Industrial Goods,,,55+,< 5 Years,Male,Facebook,FALSE
+United States,Maryland,Others,,,40-55,< 5 Years,Female,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,Georgia,IT Services,,,25-40,> 20 Years,Female,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,TX,Electronics / Hardware,Equipment tech,,55+,,Male,Google,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Virginia,Consulting,Consultant,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Florida,Telecommunications,Sales,,20-25,,Male,Facebook,FALSE
+China,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Arizona,Industrial Goods,MES Administrator,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,Indiana,Education,Associate Registrar,,40-55,,Male,School,FALSE
+United States,IL,Consulting,WebDesign,,20-25,,Male,Web,TRUE
+United States,IL,Advertising,"VP, Media Strategy",,40-55,15-20 Years,Female,Google,TRUE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+Pakistan,,,,,,,,Web,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,Utah,Healthcare,,,25-40,10-15 Years,Male,template,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Mexico,Ciudad de México,Consulting,Desarrollador de software,,40-55,,Male,Web,FALSE
+United States,Pennsylvania,Retail,Sales Associate,,25-40,,Female,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,New Jersey,Industrial Goods,,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,Senior Business Analyst,,,15-20 Years,,SOEmailer,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,CA,Electronics / Hardware,Electrical Engineer,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,IL,Others,,,40-55,< 5 Years,Male,Facebook,FALSE
+U.S. Outlying Islands,,,"manager, data strategy",,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Electronics / Hardware,Validation Engineer,,25-40,,Male,School,TRUE
+United States,IL,Others,Team leader quality,,20-25,< 5 Years,Male,Facebook,TRUE
+,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+France,,,,,,< 5 Years,,Web,FALSE
+United States,IL,Healthcare,,,25-40,5-10 Years,Male,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Sierra Leone,,,,,,< 5 Years,,inbound,FALSE
+Sierra Leone,,,,,,< 5 Years,,inbound,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+India,Maharashtra,IT Services,No,,20-25,,Female,GA_B2B,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Georgia,IT Services,Cio,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Banking & Financial Services,Relationship Manager,,25-40,5-10 Years,Male,Web,FALSE
+France,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,CA,Insurance,,,25-40,< 5 Years,Male,Google,FALSE
+India,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,TX,Media,,,25-40,10-15 Years,Male,Web,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+China,,,,,,< 5 Years,,Google,FALSE
+India,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,Consultant,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,TX,Media,Product manager,,25-40,10-15 Years,Male,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,Rail Operations,,,> 20 Years,,Facebook,FALSE
+United States,Minnesota,Others,Research Scientitst,,40-55,5-10 Years,Male,Facebook,TRUE
+United States,IL,Banking & Financial Services,Risk Analysis Specialist,,25-40,5-10 Years,Male,Web,TRUE
+United States,NY,IT Products,Product Manager,,40-55,10-15 Years,Male,Facebook,TRUE
+United States,NY,Banking & Financial Services,Commercial Credit Portfolio Analyst,,25-40,< 5 Years,Male,School,TRUE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,inbound,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,Georgia,Banking & Financial Services,Senior Program Analyst,,55+,,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,,,Facebook,FALSE
+,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Iran (Islamic Republic of),,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+Argentina,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Others,CNA,,25-40,< 5 Years,Female,Facebook,FALSE
+United States,IL,Others,Team leader quality,,20-25,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,,,Google,FALSE
+United States,Virginia,Others,GIS Intern,,25-40,< 5 Years,Male,Web,TRUE
+United States,IL,Others,CNA,,25-40,< 5 Years,Female,Facebook,TRUE
+United States,Pennsylvania,Others,Senior Automation Manager,,40-55,15-20 Years,Male,Google,TRUE
+United States,,,,,,> 20 Years,,inbound,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Ohio,Education,Lecturer,,55+,,Male,Facebook,FALSE
+United States,Indiana,Others,,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Cameroon,,,,,,< 5 Years,,Google,FALSE
+,,,,,,5-10 Years,,Google,FALSE
+United States,Florida,IT Services,GIS Analyst,,40-55,10-15 Years,Male,SOEmailer,FALSE
+United States,IL,Banking & Financial Services,Senior Analyst,,55+,,Male,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+Uganda,Mukono,Education,Software engineering,,20-25,5-10 Years,Male,Google,FALSE
+United States,Michigan,Banking & Financial Services,,,40-55,> 20 Years,Male,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+India,Telangana,IT Services,,,20-25,,Female,School,FALSE
+United States,,,,,,,,School,FALSE
+United States,TX,Banking & Financial Services,President,,55+,> 20 Years,Male,pro-ed,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+France,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,inbound,FALSE
+Kyrgyzstan,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,Maryland,IT Services,Angular Developer,,25-40,,Male,School,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,IL,Others,Demand planner/Data Analyst,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,IT Services,Associate solutions engineer,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Arizona,Banking & Financial Services,student,,25-40,,Female,Web,FALSE
+United States,IL,IT Products,Senior Software Developer,,40-55,15-20 Years,Female,Google,FALSE
+United States,IL,Banking & Financial Services,BI Data Analyst,,40-55,10-15 Years,Female,Facebook,TRUE
+United States,IL,Banking & Financial Services,Principal Business Data Steward,,40-55,,Female,template,TRUE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Sudan,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,Teacher,,,> 20 Years,,Facebook,FALSE
+United States,Maryland,Others,Chief Scientist,,40-55,15-20 Years,Male,Google,FALSE
+United States,IL,IT Services,,,20-25,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,Assistant Principal,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,Director performance marketing,,,5-10 Years,,Facebook,FALSE
+Australia,Queensland,Others,,,40-55,> 20 Years,Male,template,FALSE
+Tanzania,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Bing,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,IL,Others,,,40-55,> 20 Years,Female,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,inbound,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,CA,IT Products,,,25-40,10-15 Years,Female,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Florida,IT Services,,,40-55,10-15 Years,Male,SOEmailer,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,IL,IT Services,,,40-55,10-15 Years,Prefer not to say,Web,FALSE
+United States,Maryland,Consulting,Data Analyst,,55+,> 20 Years,Male,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,NY,Retail,Business Analyst,,40-55,5-10 Years,Female,Google,TRUE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,Founder / Co-Founder / Partner,,,> 20 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,Maryland,Others,,,40-55,15-20 Years,Male,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+India,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,,,School,FALSE
+United States,,,Owner/Operator,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+India,,,,,,< 5 Years,,Google,FALSE
+Kyrgyzstan,,,,,,< 5 Years,,Google,FALSE
+Australia,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,IL,IT Products,Enterprise Resource Analyst,,55+,> 20 Years,Male,Google,FALSE
+United States,CA,Ecommerce,"Manager, Analytics",,25-40,,Male,Web,FALSE
+United States,,,,,,> 20 Years,,inbound,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,New Jersey,Consulting,,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,,,Web,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,Virginia,Agriculture,Agriculture,,55+,,Female,template,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,IL,Others,Assistant Manager-Security,,55+,,Male,Web,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,Tech,,,< 5 Years,,Facebook,FALSE
+Saudi Arabia,,,,,,10-15 Years,,Google,FALSE
+United States,New Jersey,IT Services,,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Transport - Logistic,Accountant,,40-55,< 5 Years,Female,Web,FALSE
+Peru,Lima,Advertising,-,,20-25,,Female,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,CA,IT Products,Sales,,55+,> 20 Years,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Peru,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,IL,Banking & Financial Services,Catastrophe Risk Analyst,,25-40,< 5 Years,Male,Web,TRUE
+United States,Michigan,Others,IT Manager,,55+,15-20 Years,Female,Facebook,TRUE
+United States,,,,,,< 5 Years,,Google,FALSE
+Spain,Delaware,Human Resources Service Provider,,,20-25,5-10 Years,Female,Web,FALSE
+Portugal,,,,,,< 5 Years,,Web,FALSE
+United States,IL,Others,,,25-40,5-10 Years,Female,inbound,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,TX,IT Products,,,40-55,15-20 Years,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Philippines,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Civil construction,Entrepreneur,,40-55,,Male,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,IL,Healthcare,Analyst,,40-55,5-10 Years,Female,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Pakistan,Sindh,Healthcare,Trial coordinator,,25-40,,Female,School,FALSE
+China,,,,,,10-15 Years,,Google,FALSE
+China,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,IL,Others,,,40-55,< 5 Years,Female,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Others,,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Oregon,Education,Professor,,40-55,,Female,inbound,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+Spain,,,Other,,,15-20 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,Mississippi,Others,,,40-55,< 5 Years,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,TX,IT Services,Consultant,,25-40,5-10 Years,Female,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+Mexico,Veracruz,Agriculture,No tengo,,20-25,,Female,Web,FALSE
+United States,IL,Others,Senior Analyst,,25-40,5-10 Years,Female,Google,TRUE
+United States,Florida,Others,Intern,,25-40,,Male,School,TRUE
+United States,Ohio,IT Products,Data Scientist,,25-40,5-10 Years,Male,Web,TRUE
+Denmark,Kobenhavn,Healthcare,Project Manager,,25-40,,Female,School,TRUE
+United States,CA,IT Products,Dir - Software Eng,,55+,> 20 Years,Male,Web,TRUE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,CA,Banking & Financial Services,Associate,,25-40,,Female,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+Rwanda,,,,,,< 5 Years,,inbound,FALSE
+United Kingdom,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Connecticut,Banking & Financial Services,,,40-55,10-15 Years,Male,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,IL,Others,Social Science Research Analyst,,25-40,5-10 Years,Female,inbound,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+Zimbabwe,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,CA,Media,Partner,,55+,> 20 Years,Male,Facebook,TRUE
+Australia,Queensland,Others,Deputy Chair,,40-55,> 20 Years,Male,template,TRUE
+Sudan,Sinnar,Others,supervisor,,25-40,,Male,Google,FALSE
+United States,,,Aerospace,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Others,,,25-40,5-10 Years,Female,inbound,FALSE
+United States,IL,IT Products,,,55+,> 20 Years,Male,Google,FALSE
+Colombia,Antioquia,IT Services,Project Manager,,40-55,,Male,Web,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Florida,Consulting,Na,,25-40,,Male,School,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+South Africa,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+India,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,Ohio,Civil construction,Architect,,40-55,10-15 Years,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,CA,Banking & Financial Services,Sr. Business Analyst,,55+,> 20 Years,Female,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+Guatemala,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,IL,Consulting,Technical Project Specialist,,40-55,> 20 Years,Female,Google,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,inbound,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,NY,Healthcare,Accounts Payable,,55+,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,inbound,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,CA,Electronics / Hardware,Developer lead,,55+,> 20 Years,Male,Facebook,FALSE
+United States,,,,,,,,Web,FALSE
+United States,NY,Retail,Lead Business Analyst,,25-40,5-10 Years,Male,Web,TRUE
+United States,IL,Education,Postdoc,,40-55,5-10 Years,Female,Web,TRUE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,CA,Electronics / Hardware,Director,,40-55,10-15 Years,Female,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,Aerospace,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Google,FALSE
+Mexico,,,Consultant,,,> 20 Years,,inbound,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,Other,,,10-15 Years,,Web,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,Minnesota,Healthcare,Software Developer,,20-25,< 5 Years,Male,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+Pakistan,Punjab,Agriculture,Nothing,,20-25,,Male,School,FALSE
+United States,IL,Agriculture,,,25-40,< 5 Years,Male,Facebook,FALSE
+United States,,,,,,10-15 Years,,Web,FALSE
+United States,TX,Electronics / Hardware,,,55+,> 20 Years,Male,Facebook,FALSE
+Colombia,"Bogotá, D.C.",IT Products,QA  engineer,,25-40,< 5 Years,Female,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,Founder / Co-Founder / Partner,,,> 20 Years,,Web,FALSE
+United States,TX,Construction,,,55+,10-15 Years,Prefer not to say,Facebook,FALSE
+India,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+India,,,,,,< 5 Years,,Google,FALSE
+India,,,,,,5-10 Years,,Web,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,Ohio,Civil construction,,,40-55,10-15 Years,Female,Facebook,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+,,,,,,10-15 Years,,Google,FALSE
+United States,,,,,,5-10 Years,,Facebook,FALSE
+United States,,,,,,,,GA_B2B,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,IL,Others,Dental Office Manager,,25-40,< 5 Years,Female,School,FALSE
+United States,,,,,,10-15 Years,,Facebook,FALSE
+Nigeria,,,,,,< 5 Years,,Google,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,< 5 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Facebook,FALSE
+United States,,,,,,> 20 Years,,Facebook,FALSE
+Australia,Australian Capital Territory,IT Services,CEO,,20-25,,Prefer not to say,School,FALSE
+United States,,,,,,< 5 Years,,Facebook,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,,,,,,15-20 Years,,Google,FALSE
+United States,,,,,,15-20 Years,,Web,FALSE
+United States,IL,Engineering,,Bachelor's Degree,25-40,,,,TRUE
+United States,CA,Banking / Financial Services,Institutional Client Services Specialist Team,Bachelor's Degree,,5-9 a�os,,,TRUE
+Unknown Country,MD,Technology,,Master's Degree,,,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Other,Master's Degree,,15-Oct,,,TRUE
+United States,VA,Government  / Military / Defense,Director Information and Records Management,Bachelor's Degree,55+,More than 25 years,,,TRUE
+Unknown Country,IL,Consulting,Analyst,MBA,,,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Functional Specialist,Bachelor's Degree,25-40,15-Oct,,,TRUE
+United States,NJ,Other,Other,Bachelor's Degree,20-25,0 - 2,,,TRUE
+Unknown Country,VENETO,Other,Marketing & Sales Manager,Bachelor's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,IL,Healthcare,Medical Research Specialist,Master's Degree,,,,,TRUE
+Unknown Country,MEXICO CITY,Other,Unemployed,Bachelor's Degree,25-40,I do not have professional experience,,,TRUE
+United States,FL,Education,Graduate Research Assistant,Master's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,HI,Energy,Research and Data Analyst,Master's Degree,40-55,16-25 years,,,TRUE
+Unknown Country,Unknown,Technology,Consultant,,40-55,15-Oct,,,TRUE
+Unknown Country,FL,Banking / Financial Services,VP Risk Modelling,MBA,40-55,16-25 years,,,TRUE
+United States,IL,Biotechnology / Pharmaceuticals,Other,Master's Degree,25-40,9-Jun,,,TRUE
+Unknown Country,MD,Technology,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,SICILY,Consumer Goods & Services,Junior Category Manager,Master's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,IL,Education,Other,MBA,20-25,9-Jun,,,TRUE
+Unknown Country,Unknown,Energy,Other,,25-40,9-Jun,,,TRUE
+Unknown Country,CA,Other,"Sr Manager GSS - Risk, Analytics & Operational Strategy",MBA,40-55,16-25 years,,,TRUE
+Unknown Country,REGI�N METROPOLITANA DE SANTIAGO,Banking / Financial Services,Other,Bachelor's Degree,40-55,15-Oct,,,TRUE
+United States,IL,Banking / Financial Services,Quality Assurance Engineef,Master's Degree,40-55,10-15 years,,,TRUE
+Unknown Country,NC,Government / Military / Defense,Geopolitical Analyst,Master's Degree,,,,,TRUE
+United States,NY,Computer / Electronics,Product Manager,Master's Degree,,,,,TRUE
+United States,OH,Computer / Electronics,Director / C-Suite,MBA,40-55,16 - 24,,,TRUE
+Unknown Country,PA,Government / Military / Defense,Functional Specialist,Master's Degree,,16 - 24,,,TRUE
+United States,VA,Healthcare,Consultant,Master's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,IL,Consulting,Director / C-Suite,,40-55,16 - 24,,,TRUE
+Unknown Country,GERMANY,Energy,Other,Master's Degree,25-40,0 - 2,,,TRUE
+United States,IL,Automotive,Other,Master's Degree,40-55,0 - 2,,,TRUE
+Unknown Country,NEW JERSEY,Environmental,City Research Scientist,Doctorate,,,,,TRUE
+Unknown Country,IL,Other,CSO,Bachelor's Degree,40-55,More than 25 years,,,TRUE
+United States,NJ,Banking / Financial Services,Functional Specialist,Master's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,BENITO JUAREZ,Otros,Especialista funcional / de �rea,Bachelor's Degree,25-40,10-15 years,,,TRUE
+Unknown Country,IL,Healthcare,Functional Specialist,Bachelor's Degree,55+,25,,,TRUE
+United States,GA,Real Estate,Other,Master's Degree,40-55,9-Jun,,,TRUE
+United States,IL,Biotechnology / Pharmaceuticals,Chief Strategy Officer,MBA,,,,,TRUE
+United States,GA,Technology,Lead Solution Engineer,Master's Degree,40-55,10-15 years,,,TRUE
+Unknown Country,NJ,Manufacturing,Professor / Lecturer / Academic Career,Doctorate,40-55,0 - 2,,,TRUE
+Unknown Country,IL,Law,Functional Manager,Master's Degree,,15-Oct,,,TRUE
+United States,TN,Consulting,Consultant,Bachelor's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,VA,Healthcare,Director of Finance,Bachelor's Degree,0-20,16-25 years,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,VT,Consulting,Consultant,Master's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,FL,Telecommunications,Functional Specialist,Master's Degree,,9-Jun,,,TRUE
+United States,PA,Healthcare,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,VA,Automotive,,MBA,,,,,TRUE
+Unknown Country,PA,Product Design & Product Development,,Bachelor's Degree,,,,,TRUE
+Sweden,SK�NE,Food & Beverage,Development Engineer,Doctorate,,5-9 a�os,,,TRUE
+Unknown Country,CO,Technology,Data Analyst,Master's Degree,,,,,TRUE
+Unknown Country,DC,Energy,Senior Financial Analyst,Master's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,Unknown,Food & Beverage,Assistant manager,Bachelor's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,SAO PAULO,Banking / Financial Services,Senior Portfolio Manager,Master's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,Unknown,Engineering,Other,,25-40,0 - 2,,,TRUE
+United States,IL,Technology,Solution Architect,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,IL,Food & Beverage,Production Manager,Technical Degree,25-40,5-9 years,,,TRUE
+United States,IL,Computer / Electronics,Other,Bachelor's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,GERMANY,Energy,Functional Specialist,Master's Degree,25-40,9-Jun,,,TRUE
+Unknown Country,IL,Technology,Consultant,MBA,,16 - 24,,,TRUE
+Unknown Country,NY,Manufacturing,Business Analyst,High School Degreee,25-40,Less than 5 years,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Germany,NI,Banking / Financial Services,Chief Data Scientist,Master's Degree,40-55,5-9 a�os,,,TRUE
+Unknown Country,FL,Government / Military / Defense,Other,Master's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,ATTICA,"Travel, Recreation and Leisure",Founder / Co-Founder / Partner,MBA,25-40,0 - 2,,,TRUE
+United States,TN,Other,,High School Degreee,,,,,TRUE
+United States,NY,Banking / Financial Services,VP - Front End Developer,Bachelor's Degree,,,,,TRUE
+United States,NY,Banking / Financial Services,Portfolio Manager,Doctorate,,,,,TRUE
+Unknown Country,VA,Other,Other,Master's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,MO,Telecommunications,Sr Software Engineer,Bachelor's Degree,,,,,TRUE
+Unknown Country,NC,Technology,,Bachelor's Degree,,25,,,TRUE
+Unknown Country,ILLINOIS (IL),Healthcare,Senior Business Data Analyst,Master's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,VA,Banking / Financial Services,Functional Manager,Master's Degree,,16 - 24,,,TRUE
+Unknown Country,NJ,Engineering,Functional Specialist,Bachelor's Degree,55+,15-Oct,,,TRUE
+United Kingdom,SURREY,Banking / Financial Services,Business Analyst / project manager,Bachelor's Degree,,M�s de 25 a�os,,,TRUE
+Unknown Country,PUEBLA,Other,Honours Program,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,Unknown,,,,,0 - 2,,,TRUE
+Unknown Country,IL,Technology,Director / C-Suite,Bachelor's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,VA 23322,Energy,Energy Data Scientist,Master's Degree,40-55,5-9 years,,,TRUE
+United States,IL,Engineering,Project Engineer,Bachelor's Degree,25-40,9-Jun,,,TRUE
+United States,IL,Banking / Financial Services,Director / C-Suite,Doctorate,40-55,5-Mar,,,TRUE
+Unknown Country,NC,Banking / Financial Services,Co-Founder,Master's Degree,55+,25,,,TRUE
+Unknown Country,UTRECHT,Banking / Financial Services,Other,Master's Degree,25-40,9-Jun,,,TRUE
+Brazil,S�O PAULO,Banking / Financial Services,Intern,High School Degreee,,Menos de 5 a�os,,,TRUE
+Unknown Country,CO,Media / Entertainment,Founder / Co-Founder / Partner,Bachelor's Degree,0-20,25,,,TRUE
+United States,CA,Healthcare,Data Analyst,Master's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,IL,Healthcare,Analyst,Bachelor's Degree,,0 - 2,,,TRUE
+Unknown Country,IL,Food & Beverage,Functional Manager,MBA,25-40,5-Mar,,,TRUE
+Unknown Country,IL,Other,,Doctorate,55+,0 - 2,,,TRUE
+Unknown Country,ITALY,Education,post-doc researcher and fixed-term assistant professor,Doctorate,40-55,10-15 years,,,TRUE
+Unknown Country,IL,Computer / Electronics,Solution Architect,Bachelor's Degree,,More than 25 years,,,TRUE
+Unknown Country,VA,Government  / Military / Defense,Model Based Systems Engineer,Master's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,SZ,Consulting,Founder / Co-Founder / Partner,MBA,40-55,16 - 24,,,TRUE
+Unknown Country,FL,Government  / Military / Defense,Adjudicator,Doctorate,40-55,5-9 years,,,TRUE
+Unknown Country,Unknown,Energy,CEO / General Manager / Country Manager,,40-55,0 - 2,,,TRUE
+Brazil,RIO DE JANEIRO,Banking / Financial Services,Financial Analyst,Bachelor's Degree,25-40,5-9 a�os,,,TRUE
+Unknown Country,MINAS GERAIS,Other,Analist,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,TX,Technology,Other,Master's Degree,40-55,15-Oct,,,TRUE
+Unknown Country,MI,IT / Data,Functional Specialist,Doctorate,55+,5-Mar,,,TRUE
+Unknown Country,IL,Government / Military / Defense,Other,Master's Degree,25-40,5-Mar,,,TRUE
+United States,WA,Banking / Financial Services,Other (Please specify),Master's Degree,25-40,9-Jun,,,TRUE
+Unknown Country,GERMANY,Energy,Other,Master's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,GERMANY,Energy,Functional Specialist,Master's Degree,25-40,5-Mar,,,TRUE
+United States,MA,Media / Entertainment,Chief Operating Officer,Bachelor's Degree,,Less than 5 years,,,TRUE
+Unknown Country,NJ,Banking / Financial Services,,Master's Degree,,,,,TRUE
+United States,MD,Consulting,Data Analyst,Master's Degree,,,,,TRUE
+Unknown Country,TX,Education,professor,Doctorate,55+,,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Functional Specialist,Doctorate,40-55,15-Oct,,,TRUE
+Unknown Country,Unknown,Banking / Financial Services,Other,,25-40,5-Mar,,,TRUE
+Unknown Country,ILLINOIS,Banking / Financial Services,Functional Specialist,Master's Degree,25-40,5-Mar,,,TRUE
+United States,IL,Healthcare,Functional Specialist,Bachelor's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,IL,Automotive,Hardware Engineer,Master's Degree,,,,,TRUE
+Portugal,LISBON,Banking / Financial Services,Chairman,Doctorate,,16-25 a�os,,,TRUE
+Unknown Country,MD,Telecommunications,Hardware Engineer,Bachelor's Degree,,,,,TRUE
+Unknown Country,NRW,Technology,Functional Specialist,Master's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+United States,DC,Government  / Military / Defense,Contact Investigator,Bachelor's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,Unknown,,,,25-40,,,,TRUE
+United States,IL,Computer / Electronics,System Validation Engineer,Other,25-40,Less than 5 years,,,TRUE
+Unknown Country,CA,Consumer Goods & Services,Director / C-Suite,Bachelor's Degree,55+,15-Oct,,,TRUE
+Canada,ON,Real Estate,Director of Strategy,MBA,25-40,5-9 years,,,TRUE
+Unknown Country,IL,Education,Associate Registrar,Bachelor's Degree,40-55,,,,TRUE
+Unknown Country,CA,Technology,,Master's Degree,,,,,TRUE
+Mexico,MEXICO CITY,Banking / Financial Services,Economic Researcher,Doctorate,,Menos de 5 a�os,,,TRUE
+Unknown Country,IL,Chemicals,Sr. Scientist,Master's Degree,,,,,TRUE
+Unknown Country,MA,Technology,Consultant,Master's Degree,,15-Oct,,,TRUE
+Unknown Country,OXFORDSHIRE,Education,Postdoctoral Fellow,Doctorate,40-55,Less than 5 years,,,TRUE
+Unknown Country,IL,Law,Functional Manager,Master's Degree,25-40,9-Jun,,,TRUE
+United States,IL,Healthcare,Other,Bachelor's Degree,,0 - 2,,,TRUE
+United States,CA,Automotive,Functional Specialist,Bachelor's Degree,25-40,0 - 2,,,TRUE
+United States,TX,Engineering,Verification Engineer,Bachelor's Degree,,,,,TRUE
+United States,NY,Biotechnology / Pharmaceuticals,Finance and Data Analyst,Bachelor's Degree,,,,,TRUE
+United States,TX,Technology,Consultant,Master's Degree,25-40,15-Oct,,,TRUE
+Unknown Country,TX,Banking / Financial Services,Citi,Doctorate,40-55,10-15 years,,,TRUE
+Unknown Country,WA,Engineering,Other,Bachelor's Degree,40-55,15-Oct,,,TRUE
+United States,IN,Manufacturing,Ceo,Bachelor's Degree,,10-15 a�os,,,TRUE
+Unknown Country,VA,Education,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,NY,Banking / Financial Services,Functional Specialist,Master's Degree,25-40,9-Jun,,,TRUE
+Unknown Country,CA,Marketing / Advertising,Consultant,Bachelor's Degree,25-40,15-Oct,,,TRUE
+Unknown Country,Unknown,,,,0-20,0 - 2,,,TRUE
+Unknown Country,CA,Banking / Financial Services,quant research,Doctorate,40-55,10-15 years,,,TRUE
+United States,NY,Energy,VP Portfolio Manager,Master's Degree,,10-15 a�os,,,TRUE
+Unknown Country,CA,Telecommunications,Other,Bachelor's Degree,40-55,16 - 24,,,TRUE
+United States,IL,Not for Profit,Human Resources Assistant,Bachelor's Degree,,Menos de 5 a�os,,,TRUE
+United States,OH,Engineering,Architect,Bachelor's Degree,,,,,TRUE
+Unknown Country,CA,IT / Data,Functional Specialist,Bachelor's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,IL,Computer / Electronics,,Bachelor's Degree,,,,,TRUE
+Unknown Country,MD,Government / Military / Defense,Broadband GIS Specialist,Master's Degree,,15-Oct,,,TRUE
+Unknown Country,IL,Automotive,Other,Bachelor's Degree,25-40,15-Oct,,,TRUE
+United States,FL,Other,IT Business Partner,Bachelor's Degree,,,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,NJ,Banking / Financial Services,Consultant,MBA,55+,9-Jun,,,TRUE
+Sweden,SWEDEN,Engineering,Development Engineer,Master's Degree,,5-9 a�os,,,TRUE
+Unknown Country,CDMX,Ecommerce,Functional Manager,MBA,40-55,16 - 24,,,TRUE
+Unknown Country,NY,Media / Entertainment,Journalist,Bachelor's Degree,,,,,TRUE
+Unknown Country,CA,Agriculture,data analyst,Master's Degree,40-55,Less than 5 years,,,TRUE
+Unknown Country,IL,Chemicals,,Doctorate,,,,,TRUE
+Unknown Country,MA,Banking / Financial Services,Surveillance Analyst,Bachelor's Degree,,,,,TRUE
+Unknown Country,NOORD BRABANT,Education,Assistant professor,Doctorate,40-55,Less than 5 years,,,TRUE
+United States,IL,Technology,Consultant,Bachelor's Degree,25-40,5-Mar,,,TRUE
+United States,IL,Education,Functional Manager,Master's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,Unknown,Computer / Electronics,Professor / Lecturer / Academic Career,Master's Degree,55+,5-Mar,,,TRUE
+Unknown Country,ALAJUELA,Technology,Analyst,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+United States,NY,Retail,Lead Business Analyst,Bachelor's Degree,,,,,TRUE
+United States,IL,Marketing / Advertising,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,FL,Technology,Functional Manager,MBA,40-55,15-Oct,,,TRUE
+Unknown Country,TX,Banking / Financial Services,Vp,Bachelor's Degree,40-55,5-9 years,,,TRUE
+Unknown Country,AZ,Engineering,Student,Bachelor's Degree,,,,,TRUE
+Unknown Country,CA,Biotechnology / Pharmaceuticals,,Doctorate,,,,,TRUE
+United States,FL,Engineering,Software Quality Engineer,Bachelor's Degree,,9-Jun,,,TRUE
+United States,CA,Technology,Data Associate,Bachelor's Degree,,0 - 2,,,TRUE
+United States,IL,Government  / Military / Defense,Consul General,Bachelor's Degree,40-55,10-15 years,,,TRUE
+United States,NJ,Healthcare,Clinical Research Professional,Bachelor's Degree,,,,,TRUE
+Unknown Country,CA,Scientific / Technical Services,Researcher,Doctorate,,,,,TRUE
+Unknown Country,HERTFORDSHIRE,Government  / Military / Defense,Private,Other,40-55,10-15 years,,,TRUE
+United States,VA,Manufacturing,Data Scientist,Master's Degree,0-20,10-15 years,,,TRUE
+United States,PA,Banking / Financial Services,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+United States,TX,Oil / Gas,Functional Specialist,Master's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Risk Analysis Specialist,Master's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,Unknown,Engineering,Ingeniero de Proyectos,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,ANTOGAFASTA,Transportation and Logistics,Ingeniero de proyecto,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,IL,Healthcare,Data Analyst,Bachelor's Degree,40-55,Less than 5 years,,,TRUE
+United States,TX,Technology,Senior Solutions Engineer,Bachelor's Degree,,5-9 a�os,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Other,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,Unknown,Otros,,,,15-Oct,,,TRUE
+Unknown Country,Unknown,,Functional Specialist,,55+,5-Mar,,,TRUE
+Unknown Country,NY,Technology,,Master's Degree,25-40,I do not have professional experience,,,TRUE
+United States,TX,Transportation and Logistics,Data Management Analyst,MBA,40-55,5-9 years,,,TRUE
+United States,NY,Banking / Financial Services,Principal,MBA,,10-15 a�os,,,TRUE
+Unknown Country,MA,Scientific / Technical Services,Senior Scientist,Master's Degree,0-20,5-9 years,,,TRUE
+Unknown Country,MD,Government / Military / Defense,Professor / Lecturer / Academic Career,Other,55+,25,,,TRUE
+Unknown Country,Unknown,,,,,0 - 2,,,TRUE
+Unknown Country,MI,Technology,Head of Investments,MBA,40-55,16-25 years,,,TRUE
+Canada,ON,Banking / Financial Services,Analyst,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,SK�NE,Other,Development Engineer,Doctorate,40-55,Less than 5 years,,,TRUE
+United States,PA,Engineering,Functional Specialist,Bachelor's Degree,55+,25,,,TRUE
+Unknown Country,IL,Banking / Financial Services,trader,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Canada,SK,Education,Assistant Tenure-Track Professor,Doctorate,55+,More than 25 years,,,TRUE
+Unknown Country,IL,Banking / Financial Services,Director / C-Suite,Bachelor's Degree,55+,25,,,TRUE
+Unknown Country,IL,Insurance,Quantitative Analyst,Master's Degree,25-40,5-9 years,,,TRUE
+Brazil,BAHIA,Chemicals,Project Coordinator,MBA,,10-15 a�os,,,TRUE
+Unknown Country,SELECT,Arts,,Doctorate,,,,,TRUE
+Unknown Country,PA,Education,Functional Manager,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,IL,Biotechnology / Pharmaceuticals,Other,Bachelor's Degree,25-40,5-Mar,,,TRUE
+United States,IN,Healthcare,Administrator,Master's Degree,,5-9 a�os,,,TRUE
+Unknown Country,CA,Healthcare,Consultant,Professional Degree,55+,16 - 24,,,TRUE
+United States,IL,Energy,Scheduler,Bachelor's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,TX,Education,Data Reporting Analyst,Bachelor's Degree,55+,,,,TRUE
+Unknown Country,WA,Aerospace,Senior Technical Designer,Bachelor's Degree,,,,,TRUE
+United States,IL,Technology,Functional Specialist,Bachelor's Degree,25-40,15-Oct,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+United States,WA,Telecommunications,Senior System Engineer,Bachelor's Degree,,16-25 a�os,,,TRUE
+Unknown Country,NY,Banking / Financial Services,Director of Debt Financing,Bachelor's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,IL,Insurance,Director of Catastrophe Analytics,Bachelor's Degree,,,,,TRUE
+Unknown Country,VA,Banking / Financial Services,Other,Master's Degree,40-55,15-Oct,,,TRUE
+United States,MA,Banking / Financial Services,Other,Bachelor's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,IL,Not for Profit,Analyst for Long Term Recovery Programming,Master's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,WA,Ecommerce,,MBA,,,,,TRUE
+United States,IL,Healthcare,Manager,Doctorate,,16-25 a�os,,,TRUE
+Unknown Country,MA,Aerospace,Other,Bachelor's Degree,40-55,15-Oct,,,TRUE
+United States,CT,Banking / Financial Services,Business Consultant,Bachelor's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,NY,Healthcare,Financial Analyst,Bachelor's Degree,0-20,10-15 years,,,TRUE
+Unknown Country,FL,Other,Sports,Bachelor's Degree,,,,,TRUE
+Unknown Country,ILLINOIS,IT / Data,Other,Bachelor's Degree,,0 - 2,,,TRUE
+United States,FL,Consulting,"C.E.O,",Doctorate,,,,,TRUE
+Unknown Country,IL,IT / Data,Other,Professional Degree,25-40,5-Mar,,,TRUE
+Unknown Country,TX,Healthcare,Physical Therapist,Bachelor's Degree,40-55,Less than 5 years,,,TRUE
+Unknown Country,MA,Ecommerce,Functional Manager,MBA,0-20,5-Mar,,,TRUE
+Unknown Country,WA,Computer / Electronics,Product and program mgt,Master's Degree,55+,25,,,TRUE
+Unknown Country,MN,IT / Data,Full-time Student,Bachelor's Degree,25-40,I do not have professional experience,,,TRUE
+Unknown Country,IL,Technology,Director / C-Suite,MBA,40-55,16 - 24,,,TRUE
+Unknown Country,CA,Telecommunications,Functional Specialist,Bachelor's Degree,25-40,9-Jun,,,TRUE
+Unknown Country,IL,Technology,Functional Manager,Bachelor's Degree,40-55,16 - 24,,,TRUE
+Unknown Country,IL,Consulting,Sr. Integrations Consultant,Master's Degree,55+,More than 25 years,,,TRUE
+Unknown Country,IL,,,,,25,,,TRUE
+Unknown Country,IL,Consulting,Data Analytics Manager,Master's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,NY,Banking / Financial Services,Strategy Analyst,Bachelor's Degree,,,,,TRUE
+Unknown Country,Unknown,,,,,,,,TRUE
+Unknown Country,CATALU�A,Agriculture,"Co-founder, CEO",Master's Degree,,,,,TRUE
+United States,IL,Law,Other,Master's Degree,40-55,15-Oct,,,TRUE
+United States,TN,Healthcare,BI Analyst,Master's Degree,,5-9 a�os,,,TRUE
+Brazil,SANTA CATARINA,IT / Data,Chief Executive Officer,Bachelor's Degree,,5-9 a�os,,,TRUE
+Unknown Country,Unknown,,,,,15-Oct,,,TRUE
+Unknown Country,MN,Banking / Financial Services,Functional Specialist,Bachelor's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,MA,Banking / Financial Services,Data Analyst,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Germany,NI,Banking / Financial Services,Sen. Data Scientist,Doctorate,,Menos de 5 a�os,,,TRUE
+Unknown Country,PA,Scientific / Technical Services,Functional Specialist,Master's Degree,40-55,15-Oct,,,TRUE
+United States,IL,Other,No,Master's Degree,25-40,I do not have professional experience,,,TRUE
+Unknown Country,IL,Insurance,Consultant,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,BAVARIA,Other,Student,Bachelor's Degree,25-40,I do not have professional experience,,,TRUE
+Unknown Country,TX,Consulting,Director / C-Suite,MBA,55+,25,,,TRUE
+Unknown Country,IL,Government  / Military / Defense,Financial Analyst (Internship),Master's Degree,25-40,I do not have professional experience,,,TRUE
+United States,NJ,Media / Entertainment,Functional Manager,Master's Degree,40-55,9-Jun,,,TRUE
+Tonga,CA,Banking / Financial Services,VP - Finance & Investor Relations,Bachelor's Degree,,5-9 a�os,,,TRUE
+Unknown Country,Unknown,Government / Military / Defense,Other,,25-40,0 - 2,,,TRUE
+Unknown Country,NJ,Education,Assistant Professor,Doctorate,,,,,TRUE
+Unknown Country,MN,Consulting,,Doctorate,,,,,TRUE
+United States,IL,Automotive,Managing Partner,Master's Degree,40-55,15-Oct,,,TRUE
+Unknown Country,IL,Scientific / Technical Services,Postdoc,Doctorate,,,,,TRUE
+United States,IL,Education,,Doctorate,,,,,TRUE
+Unknown Country,IL,Government  / Military / Defense,Senior Data Scientist,Master's Degree,25-40,9-Jun,,,TRUE
+United States,IL,Technology,Functional Manager,Master's Degree,55+,25,,,TRUE
+Tonga,IA,Other,Psychometrician,Doctorate,,Menos de 5 a�os,,,TRUE
+Mexico,Unknown,Banca,Vicepresident,Master's Degree,,10-15 a�os,,,TRUE
+Unknown Country,Unknown,Banking / Financial Services,Founder / Co-Founder / Partner,,55+,25,,,TRUE
+Unknown Country,METROPOLITANA,,Desarrollador Python-Flask,Technical Degree,,5-Mar,,,TRUE
+Chile,Unknown,,,,,,,,TRUE
+Unknown Country,CANELONES,Other,Other,High School Degreee,55+,25,,,TRUE
+Unknown Country,LIMA,Consulting,Consultant,Master's Degree,40-55,15-Oct,,,TRUE
+Costa Rica,Unknown,,,,40-55,,,,TRUE
+Unknown Country,Unknown,Aerospace,Other,,25-40,0 - 2,,,TRUE
+Peru,LIMA,Consultor�a,Independiente,Bachelor's Degree,,21,,,TRUE
+Unknown Country,CDMX,Banking / Financial Services,Other,Master's Degree,25-40,15-Oct,,,TRUE
+Unknown Country,MICHOACAN,Servicios,Release and Deployment Manager,High School Degreee,25-40,15-Oct,,,TRUE
+Unknown Country,CUNDINAMARCA,,,Bachelor's Degree,55+,More than 25 years,,,TRUE
+Chile,Unknown,Agricultura y Miner�a,Especialista funcional / de �rea,Bachelor's Degree,,10-15 a�os,,,TRUE
+Unknown Country,LIMA,Servicios financieros,VICEPRESIDENTE,Master's Degree,40-55,25,,,TRUE
+Unknown Country,Unknown,Agricultura y Miner�a,,,,0 - 2,,,TRUE
+Unknown Country,Unknown,Manufactura,Especialista funcional / de �rea,Bachelor's Degree,,9-Jun,,,TRUE
+Unknown Country,LA CORU�A,Otros,,Bachelor's Degree,,15-Oct,,,TRUE
+Chile,Unknown,Agricultura y Miner�a,Consultor,Master's Degree,,10-15 a�os,,,TRUE
+Unknown Country,LIMA,Agricultura y Miner�a,Other (Please specify),Bachelor's Degree,40-55,15-Oct,,,TRUE
+Mexico,Unknown,Educaci�n,Profesor / Acad�mico,Master's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,ANTOFAGASTA,Agricultura y Miner�a,Director funcional / de �rea,MBA,,16 - 24,,,TRUE
+Unknown Country,REGI�N METROPOLITANA,Inmobiliaria y construcci�n,Jefe de �rea,Master's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,REGI�N METROPOLITANA,,,Master's Degree,40-55,15-Oct,,,TRUE
+Chile,REGI�N METROPOLITANA,,Analisis Econ�mico,Master's Degree,,10-15 years,,,TRUE
+Unknown Country,LOS RIOS,Energ�a y servicios p�blicos,Fundador / Co-Fundador / Socio,Master's Degree,,16 - 24,,,TRUE
+Chile,Unknown,Educaci�n,Director funcional / de �rea,MBA,,10-15 a�os,,,TRUE
+Chile,REGI�N METROPOLITANA,Software e Internet,Founder / Co-Founder / Partner,Technical Degree,,16-25 a�os,,,TRUE
+Unknown Country,MEXICO,,Finance Supervisor,Bachelor's Degree,25-40,9-Jun,,,TRUE
+Mexico,Unknown,,,,,,,,TRUE
+Peru,LIMA,Servicios financieros,Data Scientiest,Master's Degree,40-55,5-9 a�os,,,TRUE
+Unknown Country,LIMA,,,Master's Degree,40-55,5-9 years,,,TRUE
+United States,AZ,,,Bachelor's Degree,55+,10-15 years,,,TRUE
+Unknown Country,CIUDAD DE M�XICO,Banking / Financial Services,Other,Bachelor's Degree,25-40,9-Jun,,,TRUE
+Panama,PANAMA,,Analista de Informaci�n Comercial,MBA,,5-9 years,,,TRUE
+United States,FL,Other,Other,High School Degreee,,0 - 2,,,TRUE
+Chile,Unknown,Gobierno,Jefe,Master's Degree,,10-15 a�os,,,TRUE
+Unknown Country,PICHINCHA,,,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Colombia,Unknown,Educaci�n,Director funcional / de �rea,MBA,,16-25 a�os,,,TRUE
+Spain,Unknown,Venta al por mayor y distribuci�n,CEO / Director general / Country Manager,Master's Degree,40-55,10-15 a�os,,,TRUE
+Unknown Country,Unknown,Mining,Other,Bachelor's Degree,40-55,15-Oct,,,TRUE
+Unknown Country,Unknown,Gobierno,Consultor,Master's Degree,,5-Mar,,,TRUE
+Peru,LIMA,Servicios corporativos,Functional Specialist,Bachelor's Degree,,10-15 a�os,,,TRUE
+United States,IL,Other,Other,Professional Degree,40-55,5-Mar,,,TRUE
+Unknown Country,BOGOTA,,,Bachelor's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,Unknown,,,Master's Degree,25-40,5-9 years,,,TRUE
+Colombia,Unknown,Servicios financieros,Estudiate,Bachelor's Degree,,Menos de 5 a�os,,,TRUE
+Unknown Country,SONORA,,MFG & Process Technician,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Unknown Country,D.N.,,Gerente Inteligencia Negocios,Bachelor's Degree,40-55,16-25 years,,,TRUE
+Unknown Country,CIUDAD DE M�XICO,,,Master's Degree,25-40,5-Mar,,,TRUE
+Unknown Country,ESTADO DE M�XICO,,,Bachelor's Degree,40-55,9-Jun,,,TRUE
+Unknown Country,Unknown,Mineria,Especialista funcional / de �rea,Bachelor's Degree,,5-Mar,,,TRUE
+Unknown Country,Unknown,"Salud, Farmacia y Biotecnolog�a",Especialista funcional / de �rea,Master's Degree,,15-Oct,,,TRUE
+Unknown Country,SONORA,,,Bachelor's Degree,25-40,5-9 years,,,TRUE
+Unknown Country,LIMA,Ingenier�a y electr�nica,supervisor,Bachelor's Degree,25-40,0 - 2,,,TRUE
+Unknown Country,Unknown,Otros,Freenlance,Bachelor's Degree,0-20,Less than 5 years,,,TRUE
+Unknown Country,MADRID,,Economista por la Universidad aut�noma de Madrid,Master's Degree,40-55,15-Oct,,,TRUE
+Peru,LIMA/LIMA,Government  / Military / Defense,Especialista funcional / de �rea,Master's Degree,25-40,5-9 a�os,,,TRUE
+Mexico,Unknown,Energ�a y servicios p�blicos,Especialista funcional / de �rea,Bachelor's Degree,,10-15 a�os,,,TRUE
+Unknown Country,MIRANDA,Government / Military / Defense,Especialista funcional / de �rea,Bachelor's Degree,25-40,Less than 5 years,,,TRUE
+Mexico,Unknown,Software e Internet,Consultor,Bachelor's Degree,,16-25 a�os,,,TRUE
+Unknown Country,OUTSIDE US AND CANADA,Software e Internet,,Technical Degree,25-40,5-9 years,,,TRUE
+Unknown Country,METROPOLITAN SANTIAGO,Servicios financieros,,MBA,40-55,16-25 years,,,TRUE
+Unknown Country,PANAMA,Comercio y distribuci�n,Director funcional / de �rea,Bachelor's Degree,55+,25,,,TRUE
+Unknown Country,DISTRITO FEDERAL,,Director de Delivery Corporativo,MBA,40-55,More than 25 years,,,TRUE
+Chile,Unknown,Agricultura y Miner�a,Especialista funcional / de �rea,Bachelor's Degree,,16-25 a�os,,,TRUE
+Portugal,AVEIRO,IT / Data,Chief Technology Officer,Bachelor's Degree,,5-9 a�os,,,TRUE

@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Senior Management in Unknown (Unknown)",
+    "cluster_id": 0,
+    "size": 211,
+    "seniority": "Senior Management",
+    "primary_geography": "Unknown",
+    "secondary_geographies": [
+      "REGI\ufffdN METROPOLITANA",
+      "TX"
+    ],
+    "geo_concentration": 100.0,
+    "primary_industry": "Unknown",
+    "secondary_industries": [
+      "Construction",
+      "Otros"
+    ],
+    "industry_concentration": 99.0521327014218,
+    "common_titles": [
+      "Unknown",
+      "Other",
+      "Aerospace"
+    ],
+    "experience_level": "10-15 Years",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Unknown": 210,
+      "Prefer not to say": 1
+    },
+    "conversion_rate": 3.7914691943127963,
+    "total_conversions": 8
+  },
+  {
+    "name": "Management in Banking / Financial Services (IL)",
+    "cluster_id": 1,
+    "size": 307,
+    "seniority": "Management",
+    "primary_geography": "IL",
+    "secondary_geographies": [
+      "Unknown",
+      "CA"
+    ],
+    "geo_concentration": 37.785016286644954,
+    "primary_industry": "Banking / Financial Services",
+    "secondary_industries": [
+      "Technology",
+      "Healthcare"
+    ],
+    "industry_concentration": 29.967426710097723,
+    "common_titles": [
+      "Other",
+      "Unknown",
+      "Functional Specialist"
+    ],
+    "experience_level": "Unknown",
+    "primary_lead_source": "Unknown",
+    "gender_distribution": {
+      "Unknown": 307
+    },
+    "conversion_rate": 100.0,
+    "total_conversions": 307
+  },
+  {
+    "name": "C-Suite/Executive in Unknown (Unknown)",
+    "cluster_id": 2,
+    "size": 662,
+    "seniority": "C-Suite/Executive",
+    "primary_geography": "Unknown",
+    "secondary_geographies": [
+      "MD",
+      "TN"
+    ],
+    "geo_concentration": 99.8489425981873,
+    "primary_industry": "Unknown",
+    "secondary_industries": [
+      "Technology",
+      "Other"
+    ],
+    "industry_concentration": 100.0,
+    "common_titles": [
+      "Unknown",
+      "CEO",
+      "Consultant"
+    ],
+    "experience_level": "< 5 Years",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Unknown": 662
+    },
+    "conversion_rate": 2.8700906344410875,
+    "total_conversions": 19
+  },
+  {
+    "name": "Management in Others (IL)",
+    "cluster_id": 3,
+    "size": 190,
+    "seniority": "Management",
+    "primary_geography": "IL",
+    "secondary_geographies": [
+      "CA",
+      "TX"
+    ],
+    "geo_concentration": 46.31578947368421,
+    "primary_industry": "Others",
+    "secondary_industries": [
+      "IT Services",
+      "Banking & Financial Services"
+    ],
+    "industry_concentration": 44.21052631578947,
+    "common_titles": [
+      "Unknown",
+      "Analyst",
+      "Project Manager"
+    ],
+    "experience_level": "Unknown",
+    "primary_lead_source": "Facebook",
+    "gender_distribution": {
+      "Male": 122,
+      "Female": 65,
+      "Prefer not to say": 3
+    },
+    "conversion_rate": 27.89473684210526,
+    "total_conversions": 53
+  }
+]
