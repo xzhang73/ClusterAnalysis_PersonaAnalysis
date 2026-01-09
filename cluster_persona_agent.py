@@ -1,4 +1,14 @@
+import sys, site
 import streamlit as st
+### This is to test where these libraries are ###
+#st.write("Python exe:", sys.executable)
+#st.write("Python version:", sys.version)
+#st.write("ENABLE_USER_SITE:", site.ENABLE_USER_SITE)
+#st.write("USER_SITE:", site.getusersitepackages())
+#st.write("sys.path has USER_SITE:",
+#         any(site.getusersitepackages() in p for p in sys.path))
+import sklearn
+#import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
